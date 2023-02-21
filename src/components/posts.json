@@ -1,0 +1,14 @@
+[
+    {
+        "postedBy": "Kunal",
+        "postText":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "likes": 2,
+        "comments":[
+            {
+                "by":"Rishabh",
+                "comment":"Great Share"
+            }
+        ]
+    }
+]
